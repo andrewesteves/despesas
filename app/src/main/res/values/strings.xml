@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Despesas</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="listar">Listar</string>
+    <string name="titulo">Título</string>
+    <string name="total">Total</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="remover">Remover</string>
+    <string name="camera">Tirar foto</string>
+</resources>
